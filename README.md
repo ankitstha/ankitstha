@@ -6,7 +6,7 @@ Android Dev
 -----------
 
 * 🌍  I'm based in Nepal
-* ✉️  You can contact me at [ankitshrestha114@gmail.com](mailto:ankitshrestha114@gmail.com)
+* ✉️  You can contact me at [xthankit@proton.me](mailto:xthankit@proton.me)
 * 🧠  I'm learning Python, Web Development
 
 ### Skills
